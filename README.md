@@ -1,7 +1,7 @@
-# PaintCodeGearClock
+
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/evision1/PaintCodeGearClock/master/iOSGearClockLogo.png" width=210px height=211 alt="SwiftDate" title="SwiftDate">
+  <img src="https://raw.githubusercontent.com/evision1/PaintCodeGearClock/master/iOSGearClockLogo.png" width=400px height=401 alt="SwiftDate" title="SwiftDate">
 </p>
 
 [![PaintCode compatible](https://img.shields.io/badge/PaintCode-3.3.1-blue.svg)](https://www.paintcodeapp.com/) [![Swift](https://img.shields.io/badge/Swift-4.0-orange.svg)](https://www.apple.com/swift/) 
