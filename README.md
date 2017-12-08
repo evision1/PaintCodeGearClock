@@ -12,5 +12,6 @@
 
 ![alt text](https://raw.githubusercontent.com/evision1/PaintCodeGearClock/master/Screen%20Shot%202017-11-19%20at%208.21.20%20AM.png)
 
+![alt text](https://raw.githubusercontent.com/evision1/PaintCodeGearClock/master/ClockGearsMaster.png)
 
-
+![alt text](https://raw.githubusercontent.com/evision1/PaintCodeGearClock/master/ClockGearsMasterVars.png)
