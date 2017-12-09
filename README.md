@@ -3,7 +3,7 @@
 <p align="center" >
   <img src="https://raw.githubusercontent.com/evision1/PaintCodeGearClock/master/iOSGearClockLogo.png" width=400px height=401 alt="SwiftDate" title="SwiftDate">
 </p>
-
+- Update: This is turning out to be a repository for PaintCode clocks. 
 - PaintCode Gear Clock with working gears. Gear are "Ratio-Correct" to a working clock. In Xcode, just set the seconds variable to the total number of seconds in the current day.
 
 [![PaintCode compatible](https://img.shields.io/badge/PaintCode-3.3.1-blue.svg)](https://www.paintcodeapp.com/) [![Swift](https://img.shields.io/badge/Swift-4.0-orange.svg)](https://www.apple.com/swift/) 
